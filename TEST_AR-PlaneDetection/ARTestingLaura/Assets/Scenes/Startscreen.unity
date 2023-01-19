@@ -466,7 +466,7 @@ GameObject:
   - component: {fileID: 1125752131}
   - component: {fileID: 1125752130}
   - component: {fileID: 1125752129}
-  - component: {fileID: 1125752132}
+  - component: {fileID: 1125752133}
   m_Layer: 5
   m_Name: Weiter_button
   m_TagString: Untagged
@@ -538,16 +538,16 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1125752132}
-        m_TargetAssemblyTypeName: continue_script, Assembly-CSharp
+      - m_Target: {fileID: 1125752133}
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: LoadScene
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Team_selection
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1125752130
@@ -588,7 +588,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1125752127}
   m_CullTransparentMesh: 1
---- !u!114 &1125752132
+--- !u!114 &1125752133
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -597,7 +597,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1125752127}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a8d8d4cab3570b4dac22ffda7e99953, type: 3}
+  m_Script: {fileID: 11500000, guid: 819538888f5d52b4eba1b0d320c17706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1167626678

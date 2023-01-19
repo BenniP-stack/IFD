@@ -208,15 +208,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 661881867}
-        m_TargetAssemblyTypeName: back_script, Assembly-CSharp
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: LoadScene
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Startscreen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &661881865
@@ -266,7 +266,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 661881862}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 5405aeebbc5dcb34c9057e6da71e36b7, type: 3}
+  m_Script: {fileID: 11500000, guid: 819538888f5d52b4eba1b0d320c17706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &716970719
@@ -687,15 +687,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1052207602}
-        m_TargetAssemblyTypeName: continue_script_info, Assembly-CSharp
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: LoadScene
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Info_Screen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1052207600
@@ -745,7 +745,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1052207597}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d73642576dc4ad54fba0cabf86b852fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 819538888f5d52b4eba1b0d320c17706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1470819261
@@ -1140,15 +1140,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1548645329}
-        m_TargetAssemblyTypeName: continue_script_info, Assembly-CSharp
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: LoadScene
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Info_Screen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1548645327
@@ -1198,7 +1198,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1548645324}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d73642576dc4ad54fba0cabf86b852fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 819538888f5d52b4eba1b0d320c17706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1675263390
@@ -1287,15 +1287,15 @@ MonoBehaviour:
     m_PersistentCalls:
       m_Calls:
       - m_Target: {fileID: 1675263395}
-        m_TargetAssemblyTypeName: continue_script_info, Assembly-CSharp
+        m_TargetAssemblyTypeName: ButtonScript, Assembly-CSharp
         m_MethodName: LoadScene
-        m_Mode: 1
+        m_Mode: 5
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: 
+          m_StringArgument: Info_Screen
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1675263393
@@ -1345,7 +1345,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 1675263390}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d73642576dc4ad54fba0cabf86b852fb, type: 3}
+  m_Script: {fileID: 11500000, guid: 819538888f5d52b4eba1b0d320c17706, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
 --- !u!1 &1801242901
